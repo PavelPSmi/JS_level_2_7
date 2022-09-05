@@ -1,0 +1,27 @@
+[
+  {
+    "img":"./../img/products/278.png",
+    "id_product": 124,
+    "product_name": "Клавиатура",
+    "price": 1600
+  },
+  {
+    "img":"./../img/products/200.png",
+    "id_product": 457,
+    "product_name": "Мышь",
+    "price": 3000
+  },
+  {
+    "img":"./../img/products/100.png",
+    "id_product": 14,
+    "product_name": "Ноутбук",
+    "price": 16000
+  },
+  {
+    "img":"./../img/products/792.png",
+    "id_product": 257,
+    "product_name": "Наушники",
+    "price": 3000
+  }
+
+]
